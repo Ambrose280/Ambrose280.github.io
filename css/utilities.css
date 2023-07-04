@@ -141,7 +141,7 @@ h2::selection {
 
 /* Project 2 */
 .card:nth-child(2) {
-  background: url(../assets/project/project-two.png) center center/cover;
+  background: url(../assets/project/Auth.webp) center center/cover;
 }
 
 /* Project 3 */
@@ -165,16 +165,16 @@ h2::selection {
 }
 
 .card:nth-child(7) {
-  background: url(../assets/project/API.webp) center center/cover;
+  background: url(../assets/project/API2.webp) center center/cover;
 }
 
 
 .card:nth-child(8) {
-  background: url(../assets/project/API.webp) center center/cover;
+  background: url(../assets/project/API4.jpg) center center/cover;
 }
 
 .card:nth-child(9) {
-  background: url(../assets/project/project-nine.png) center center/cover;
+  background: url(../assets/project/Screenshot.png) center center/cover;
 }
 /* Media Queries */
 @media (max-width: 768px) {
