@@ -161,9 +161,21 @@ h2::selection {
 
 /* Project 6 */
 .card:nth-child(6) {
-  background: url(../assets/project/project-six.png) center center/cover;
+  background: url(../assets/project/API.webp) center center/cover;
 }
 
+.card:nth-child(7) {
+  background: url(../assets/project/API.webp) center center/cover;
+}
+
+
+.card:nth-child(8) {
+  background: url(../assets/project/API.webp) center center/cover;
+}
+
+.card:nth-child(9) {
+  background: url(../assets/project/project-nine.png) center center/cover;
+}
 /* Media Queries */
 @media (max-width: 768px) {
   .header-container {
