@@ -151,7 +151,7 @@ h2::selection {
 
 /* Project 4 */
 .card:nth-child(4) {
-  background: url(../assets/project/project-four.png) center center/cover;
+  background: url(../assets/project/Screenshot\ 2023-09-14\ 112623.png) center center/cover;
 }
 
 /* Project 5 */
@@ -165,16 +165,16 @@ h2::selection {
 }
 
 .card:nth-child(7) {
-  background: url(../assets/project/project-eight.png) center center/cover;
+  background: url(../assets/project/f.png) center center/cover;
 }
 
 
 .card:nth-child(8) {
-  background: url(../assets/project/project-seven.png) center center/cover;
+  background: url(../assets/project/dd.png) center center/cover;
 }
 
 .card:nth-child(9) {
-  background: url(../assets/project/Screenshot.png) center center/cover;
+  background: url(../assets/project/Screenshot\ \(297\).png) center center/cover;
 }
 /* Media Queries */
 @media (max-width: 768px) {
